@@ -1,0 +1,16 @@
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\bin\Debug\net8.0-windows\WinForms Vini.exe
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\bin\Debug\net8.0-windows\WinForms Vini.deps.json
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\bin\Debug\net8.0-windows\WinForms Vini.runtimeconfig.json
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\bin\Debug\net8.0-windows\WinForms Vini.dll
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\bin\Debug\net8.0-windows\WinForms Vini.pdb
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms_Vini.Form1.resources
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.csproj.GenerateResource.cache
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.AssemblyInfoInputs.cache
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.AssemblyInfo.cs
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.csproj.CoreCompileInputs.cache
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.dll
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\refint\WinForms Vini.dll
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.pdb
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\WinForms Vini.genruntimeconfig.cache
+C:\Users\24100167\source\repos\WinForms Vini\WinForms Vini\obj\Debug\net8.0-windows\ref\WinForms Vini.dll
