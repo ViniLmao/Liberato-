@@ -1,0 +1,6 @@
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\Form1.resources
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\for.csproj.GenerateResource.cache
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\for.AssemblyInfoInputs.cache
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\for.AssemblyInfo.cs
+C:\Users\24100167\source\repos\for\for\obj\Debug\net8.0-windows\for.csproj.CoreCompileInputs.cache

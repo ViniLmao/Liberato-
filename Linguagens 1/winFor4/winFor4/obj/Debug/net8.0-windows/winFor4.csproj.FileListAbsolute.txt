@@ -1,0 +1,16 @@
+C:\Users\24100167\source\repos\winFor4\winFor4\bin\Debug\net8.0-windows\winFor4.exe
+C:\Users\24100167\source\repos\winFor4\winFor4\bin\Debug\net8.0-windows\winFor4.deps.json
+C:\Users\24100167\source\repos\winFor4\winFor4\bin\Debug\net8.0-windows\winFor4.runtimeconfig.json
+C:\Users\24100167\source\repos\winFor4\winFor4\bin\Debug\net8.0-windows\winFor4.dll
+C:\Users\24100167\source\repos\winFor4\winFor4\bin\Debug\net8.0-windows\winFor4.pdb
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.Form1.resources
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.csproj.GenerateResource.cache
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.AssemblyInfoInputs.cache
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.AssemblyInfo.cs
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.csproj.CoreCompileInputs.cache
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.dll
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\refint\winFor4.dll
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.pdb
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\winFor4.genruntimeconfig.cache
+C:\Users\24100167\source\repos\winFor4\winFor4\obj\Debug\net8.0-windows\ref\winFor4.dll

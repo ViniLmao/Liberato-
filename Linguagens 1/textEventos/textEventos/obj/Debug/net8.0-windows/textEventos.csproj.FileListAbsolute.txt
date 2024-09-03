@@ -1,0 +1,16 @@
+C:\Users\24100167\source\repos\textEventos\textEventos\bin\Debug\net8.0-windows\textEventos.exe
+C:\Users\24100167\source\repos\textEventos\textEventos\bin\Debug\net8.0-windows\textEventos.deps.json
+C:\Users\24100167\source\repos\textEventos\textEventos\bin\Debug\net8.0-windows\textEventos.runtimeconfig.json
+C:\Users\24100167\source\repos\textEventos\textEventos\bin\Debug\net8.0-windows\textEventos.dll
+C:\Users\24100167\source\repos\textEventos\textEventos\bin\Debug\net8.0-windows\textEventos.pdb
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.Form1.resources
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.csproj.GenerateResource.cache
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.AssemblyInfoInputs.cache
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.AssemblyInfo.cs
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.csproj.CoreCompileInputs.cache
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.dll
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\refint\textEventos.dll
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.pdb
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\textEventos.genruntimeconfig.cache
+C:\Users\24100167\source\repos\textEventos\textEventos\obj\Debug\net8.0-windows\ref\textEventos.dll
