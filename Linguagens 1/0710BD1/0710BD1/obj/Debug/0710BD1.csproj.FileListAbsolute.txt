@@ -1,0 +1,17 @@
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\Database1.mdf
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\Database1_log.ldf
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\0710BD1.exe.config
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\0710BD1.exe
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\0710BD1.pdb
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\EntityFramework.dll
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\EntityFramework.xml
+C:\Users\vinic\source\repos\0710BD1\0710BD1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\_0710BD1.Form1.resources
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\_0710BD1.Properties.Resources.resources
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.csproj.Up2Date
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.exe
+C:\Users\vinic\source\repos\0710BD1\0710BD1\obj\Debug\0710BD1.pdb
